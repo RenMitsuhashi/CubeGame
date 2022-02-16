@@ -1,0 +1,9 @@
+﻿  block.cpp
+  goal.cpp
+  コード生成しています。
+  6 of 145 functions ( 4.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    33 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  2DAction.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\2DAction\Release\2DAction.exe
+  2DAction.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\2DAction\Release\2DAction.pdb (Full PDB)
